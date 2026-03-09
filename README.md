@@ -63,8 +63,6 @@ se_corrected = se_naive * factor
 
 The VIF captures only 40-67% of the true variance correction due to a structural limitation called *phantom substitution*. SANI bypasses this through Rao-Blackwellized numerical integration.
 
-See: [Author] (2026). "How Much Does Estimating ρ Distort Inference on β?" *Journal of Econometrics*.
-
 ## Requirements
 
 - Python >= 3.8
