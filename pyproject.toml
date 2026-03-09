@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rho-uncertainty"
-version = "0.1.0"
+version = "0.1.1"
 description = "Correcting inference in SAR models for rho-estimation uncertainty"
 readme = "README.md"
 license = {text = "MIT"}
